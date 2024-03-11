@@ -1,7 +1,7 @@
 {
-  "name": "My YT Bookmarks",
+  "name": "YouTube Bookmarks",
   "version": "0.1.0",
-  "description": "Saving timestamps in YT videos",
+  "description": "Saving timestamps in YouTube videos",
   "permissions": ["storage", "tabs"],
   "host_permissions": ["https://*.youtube.com/*"],
   "background": {
@@ -30,7 +30,7 @@
       "24": "assets/ext-icon.png",
       "32": "assets/ext-icon.png"
     },
-    "default_title": "My YT Bookmarks",
+    "default_title": "YouTube Bookmarks",
     "default_popup": "popup.html"
   },
   "manifest_version": 3
